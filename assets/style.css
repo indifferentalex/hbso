@@ -1,0 +1,42 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif !important;
+}
+
+.hbso-nav {
+	padding-top: 12px;
+}
+
+.hbso-information {
+	height: 100vh;
+}
+
+.hbso-information .column.is-4 {
+	z-index: 2;
+	padding-top: 48px;
+}
+
+.hbso-information .subtitle {
+	margin-left: 36px;
+}
+
+.hbso-information .title {
+	white-space: nowrap;
+}
+
+.hbso-information .subtitle {
+	white-space: nowrap;
+}
+
+.hbso-information a {
+	display: inline-block;
+	margin-top: 12px;
+	color: #194795;
+}
+
+.hbso-footer {
+	padding-bottom: 24px;
+}
+
+.hbso-footer strong {
+	color: #194795;
+}
